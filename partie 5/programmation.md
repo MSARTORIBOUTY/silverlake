@@ -29,7 +29,7 @@ Merci pour l'attention que vous avez portée à notre histoire, en espérant qu'
 
 # Qu'est-il arrivé à Marcel Melton ?
 
-Une fois que vous aviez élucidé l'enquête, la police était en chemin pour arrêter Marcel Melton. 
+Une fois que vous avez élucidé l'enquête, la police était en chemin pour arrêter Marcel Melton. 
 
 Cependant, ce dernier, c'était déjà envolé pour les Bahamas où il passera sa retraite tranquillement sous le soleil *(parce qu'il l'avait apparemment bien mérité !)*.
 
