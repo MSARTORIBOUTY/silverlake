@@ -22,7 +22,7 @@ Seul le profil de colby possède une réponse précise au sujet du flag à trouv
 
 ![screenshot](https://github.com/MSARTORIBOUTY/image/blob/master/silverlake/%C3%A8re_open.png)
 
-=L'ère open
+### L'ère open
 
 Colby est un passionné de tennis comme Mica.
 L'ère open est un événement très important dans ce sport, il n'est donc pas surprenant que le code pin de son téléphone soit l'année de création de l'ère open.
