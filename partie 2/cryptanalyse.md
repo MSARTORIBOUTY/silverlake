@@ -10,6 +10,8 @@ Cependant, la route ne sera pas si simple !
 Forcer l'entrée de la compagnie en obtenant un code, vous aurez accès aux témoignages.
 Mais il semblerait qu'ils soient eux-mêmes protéger à leur tour.
 
+--- 
+
 ## Résolution 
 
 Un document est mis à votre disposition : id_rsa
@@ -64,6 +66,8 @@ Et le voici de retour !
 Le mot de passe : **temoignageSL**
 
 Il vous faudra utiliser la commande **unzip** pour lire le contenu du dossier zip.
+
+---
 
 ## Flag
 
