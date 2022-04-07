@@ -23,5 +23,5 @@ L'histoire de Silverlake est divisée en 5 parties :
 
 ## Créateurs
 
-Cette histoire a été inventée et créée de toute pièce par ALEM Lina et SARTORI BOUTY Marie-Laure, étudiantes en informatique.
+Cette histoire a été inventée et créée de toute pièce par [ALEM Lina](https://www.linkedin.com/in/lina-alem-4963601b6/?originalSubdomain=fr) et [SARTORI BOUTY Marie-Laure](https://www.linkedin.com/in/marie-laure-sartori-bouty-39b0611b7/?originalSubdomain=fr), étudiantes en informatique.
 
