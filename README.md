@@ -4,7 +4,7 @@ Silverlake est un scénario concue pour un CTF Hacky'Nov (https://hackynov.fr/) 
 
 ## Histoire 
 
-[image](https://zupimages.net/viewer.php?id=22/14/pz3d.jpg)
+[https://zupimages.net/viewer.php?id=22/14/pz3d.jpg]
 
 Colby Parkes, fondateur de la compagnie Silverlake & Co est porté disparu le 17 mars 2020.
 Un beau jour ce dernier est retrouvé décédé au pied d'une falaise.
